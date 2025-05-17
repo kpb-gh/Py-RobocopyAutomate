@@ -22,4 +22,4 @@ def Wait(x = 600):
     sleep(x)
     print(f"BACKUP START - {ctime(time())}")
 
-Main(10)
+Main(delay)
